@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+        <file alias="icon">ruijie.png</file>
+        <file alias="ex">example.jpg</file>
+        <file alias="app_zh_CN">app_zh-CN.qm</file>
+    </qresource>
+</RCC>
